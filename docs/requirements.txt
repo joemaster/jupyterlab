@@ -5,3 +5,4 @@ recommonmark
 pytest
 pytest-check-links[cache]>=0.4.2
 jsx-lexer
+tensorflow
